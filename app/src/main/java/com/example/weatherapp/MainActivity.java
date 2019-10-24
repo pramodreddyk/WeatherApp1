@@ -53,23 +53,23 @@ public class MainActivity extends AppCompatActivity {
                 switch (item.getItemId()) {
                     default:
                         cityFragment(4118);
-                        getSupportActionBar().setTitle("Torronto,Canada");
+                        getSupportActionBar().setTitle("Torronto");
                         break;
                     case R.id.fifth:
                         cityFragment(8775);
-                        getSupportActionBar().setTitle("Calgary,Canada");
+                        getSupportActionBar().setTitle("Calgary");
                         break;
                     case R.id.third:
                         cityFragment(9807);
-                        getSupportActionBar().setTitle("Vancouver,Canada");
+                        getSupportActionBar().setTitle("Vancouver");
                         break;
                     case R.id.two:
                         cityFragment(3534);
-                        getSupportActionBar().setTitle("Montreal,Canada");
+                        getSupportActionBar().setTitle("Montreal");
                         break;
                     case R.id.four:
                         cityFragment(8676);
-                        getSupportActionBar().setTitle("Edmonton,Canada");
+                        getSupportActionBar().setTitle("Edmonton");
                         break;
                 }
                 drawerLayout.closeDrawers();
