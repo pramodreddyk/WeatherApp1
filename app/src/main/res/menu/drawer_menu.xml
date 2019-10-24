@@ -14,10 +14,10 @@
             android:title="Vancouver" />
         <item
             android:id="@+id/four"
-            android:title="Edmonton" />
+            android:title="Newyork" />
         <item
             android:id="@+id/fifth"
-            android:title="Calgary" />
+            android:title="London" />
     </group>
 
 

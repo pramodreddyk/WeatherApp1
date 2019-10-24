@@ -56,8 +56,8 @@ public class MainActivity extends AppCompatActivity {
                         getSupportActionBar().setTitle("Torronto");
                         break;
                     case R.id.fifth:
-                        cityFragment(8775);
-                        getSupportActionBar().setTitle("Calgary");
+                        cityFragment(44418);
+                        getSupportActionBar().setTitle("London");
                         break;
                     case R.id.third:
                         cityFragment(9807);
@@ -68,8 +68,8 @@ public class MainActivity extends AppCompatActivity {
                         getSupportActionBar().setTitle("Montreal");
                         break;
                     case R.id.four:
-                        cityFragment(8676);
-                        getSupportActionBar().setTitle("Edmonton");
+                        cityFragment(2459115);
+                        getSupportActionBar().setTitle("Newyork");
                         break;
                 }
                 drawerLayout.closeDrawers();
